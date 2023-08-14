@@ -1,0 +1,5 @@
+opencv-python == 4.8.0.78
+keras == 2.13.1
+pygame == 2.5.0
+numpy == 3.0.2
+mataplotlib == 3.7.2
